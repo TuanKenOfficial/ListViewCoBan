@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">HocListView</string>
+    <string-array name="myArray">
+        <item>1. Mơ Hương Sơn, Hà Nội</item>
+        <item>2. Cam Canh, Hà Nội</item>
+        <item>3. Cam sành, Hà Giang</item>
+        <item>4. Lê Đông Khê, Cao Bằng</item>
+        <item>5. Cam sành  Hàm Yên, Tuyên Quang</item>
+        <item>6. Đào  Sa Pa, Lào Cai</item>
+        <item>7. Táo Mèo  Bắc Yên, Sơn La</item>
+        <item>8. Na Chi Lăng,  Lạng Sơn</item>
+        <item>9. Đào Mẫu Sơn, Lạng Sơn</item>
+        <item>10. Vải thiều Lục Ngạn, Bắc Giang</item>
+        <item>11. Bưởi Đoan Hùng, Phú Thọ</item>
+        <item>12. Vải Thiều Thanh Hà, Hải Dương</item>
+        <item>13. Nhãn lồng, Phố Hiến – Hưng Yên</item>
+        <item> 14. Ổi bo, Thái Bình</item>
+        <item> 15. Chuối Ngự, Đại Hoàng – Hà Nam</item>
+        <item> 16. Dứa Đồng Giao, Ninh Bình</item>
+        <item> 17. Cam Xã Đoài,  Vinh – Nghệ An</item>
+        <item> 18. Cam bù,  Hương Sơn – Hà Tĩnh</item>
+        <item> 19. Bưởi Phúc Trạch, Hà Tĩnh</item>
+        <item> 20. Bưởi Thanh Trà, Huế</item>
+        <item> 21. Xoài tượng,  Đại An – Bình Định</item>
+        <item> 22. Sầu riêng,  Khánh Sơn – Khánh Hòa</item>
+        <item> 23. Nho,  Ninh Thuận</item>
+        <item> 24. Thanh Long,  Phú Hội – Bình Thuận</item>
+        <item> 25. Bơ sáp, Buôn Ma Thuột – Đắk Lắk</item>
+        <item> 26. Dâu Tây, Đà Lạt  – Lâm Đồng</item>
+        <item> 27. Hồng, Đà Lạt – Lâm Đồng</item>
+        <item> 28. Mãng Cầu,  Bà Đen – Tây Ninh</item>
+        <item> 29. Măng Cụt, Lái Thiêu – Bình Dương</item>
+        <item> 30. Bưởi, Biên Hòa – Đồng Nai</item>
+        <item> 31. Chôm chôm, Long Khánh – Đồng Nai</item>
+        <item> 32. Nhãn xuồng Cơm Vàng, Vũng Tàu</item>
+        <item> 33. Mãng Cầu,  Cần Giờ -Tp. Hồ Chí Minh</item>
+        <item> 34. Dứa (Khóm),  Bến Lức – Long An</item>
+        <item> 35. Sầu riêng, Ngũ Hiệp – Tiền Giang</item>
+        <item> 36. Sơ ri, Gò Công – Tiền Giang</item>
+        <item> 37. Thanh Long, Chợ Gạo – Tiền Giang</item>
+        <item> 38. Xoài Cát Hòa Lộc, Tiền Giang</item>
+        <item> 39. Vú sữa Lò Rèn, Vĩnh Kim – Tiền Giang</item>
+        <item> 40. Dưa hấu  Gò Công – Tiền Giang</item>
+        <item> 41. Sa-pô-chê, Mặc Bắc – Tiền Giang</item>
+        <item> 42. Nhãn tiêu da bò, Tiền Giang</item>
+        <item> 43. Bưởi da xanh, Mỹ Thạnh An – Bến Tre</item>
+        <item> 44. Măng cụt, Chợ Lách-Bến Tre</item>
+        <item> 45. Dừa,  Bến Tre</item>
+        <item> 46. Dừa sáp, Cầu Kè-Trà Vinh</item>
+        <item> 47. Quýt đường,Trà Vinh</item>
+        <item> 48. Bưởi Năm Roi, Bình Minh-Vĩnh Long</item>
+        <item> 49. Sầu riêng Ri-6, Vĩnh Long</item>
+        <item> 50. Cam mật, Cần Thơ</item>
+        <item>An Giang</item>
+        <item>Bà Rịa - Vũng Tàu</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Kạn</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Định</item>
+        <item>Bình Dương</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hậu Giang</item>
+        <item>Hòa Bình</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lâm Đồng</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên Huế</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+        <item>Phú Yên</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Hà Nội</item>
+        <item>TP HCM</item>
+
+
+    </string-array>
+</resources>
